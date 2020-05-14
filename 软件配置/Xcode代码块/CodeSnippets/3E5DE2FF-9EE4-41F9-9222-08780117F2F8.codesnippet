@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>my-block属性-有注释</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>///&lt;#intro#&gt;
+@property (nonatomic, copy) &lt;#returnType#&gt;(^&lt;#name#&gt;)(&lt;#arguments#&gt;);
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3E5DE2FF-9EE4-41F9-9222-08780117F2F8</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>my-block属性-有注释</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>my-block属性-有注释</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

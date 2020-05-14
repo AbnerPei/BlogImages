@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>@my--leftRight-top</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    UIBezierPath *bezierPath = [UIBezierPath bezierPathWithRoundedRect:_arrowControlButton.bounds byRoundingCorners:(UIRectCornerTopLeft | UIRectCornerTopRight) cornerRadii:CGSizeMake(kWPercentage(10), kWPercentage(10))];
+    CAShapeLayer *shaperLayer = [[CAShapeLayer alloc] init];
+    shaperLayer.frame = _arrowControlButton.bounds;
+    shaperLayer.path = bezierPath.CGPath;
+    _arrowControlButton.layer.mask = shaperLayer;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>77899864-DDC2-40DD-9FFA-3D129BFC525A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>设置左上、右上圆角</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>妮蔻：你好呀，坏人们！</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
