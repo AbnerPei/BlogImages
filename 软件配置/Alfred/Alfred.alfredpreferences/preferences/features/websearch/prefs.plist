@@ -30,6 +30,19 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
+		<key>68CF1BEA-AA8C-4F1A-AD9B-42B7D706D442</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>yq</string>
+			<key>text</key>
+			<string>语雀</string>
+			<key>url</key>
+			<string>https://www.yuque.com/ppabner/coder/how_to_download_runtime</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
 		<key>73CC2113-855E-4CC7-ACFC-875170133C83</key>
 		<dict>
 			<key>enabled</key>
